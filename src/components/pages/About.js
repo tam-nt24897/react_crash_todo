@@ -5,7 +5,7 @@ export class About extends Component {
         return (
             <React.Fragment>
                 <h1>About</h1>
-                <p>This is a Todo app  v1.0.0. It is a part of react crash course</p>
+                <p>This is a Todo app  v1.0.0. It is a part of react crash course . :) </p>
             </React.Fragment>
         )
     }
